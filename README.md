@@ -1,7 +1,7 @@
 ### Hi there 👋
-I'm Hassan Mohammadian\
+I'm Hassan Mohammadian.\
 Do you want to know me better?\
-Visit my [website](https://hasssanitman.ir)
+Visit my [website](https://hasssanitman.ir).
 
 <!--
 **hasssanitman/hasssanitman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
