@@ -1,6 +1,6 @@
 ### Hi there 👋
 I'm Hassan Mohammadian.\
-Do you want to know me better?\
+Do you want to know me more?\
 Visit my [website](https://hasssanitman.ir).
 
 <!--
