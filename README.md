@@ -6,7 +6,7 @@ Skill set:
 
 Go - Echo - MySQL - Git - Docker - RabbitMQ - Linux - Nginx - Caddy
 
-Do you want to know me more?
+Would you like to know me?
 Visit my [website](https://hasssanitman.ir).
 
 <!--
