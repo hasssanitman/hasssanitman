@@ -3,7 +3,7 @@
 Software Engineer and Back-end Developer with more than 6 years of experience, (re)designed, and implemented small to medium software systems with teammates from 5 to 15 people. development experience with Go, PHP, and JavaScript languages and work with SQL databases. Set up various Linux services. loves deep work, learning, and creating new things, and enjoys dealing with complex technical issues and finding solutions more than anything else.
 
 Skill set:
-* Go * Echo * PostgreSQL * Microservice * Design Patterns * Git * Docker * RabbitMQ * Linux * Nginx * Caddy
+* Go * Echo * PostgreSQL * Git * Docker *Linux
 
 Would you like to know me?
 Visit my [website](https://hasssanitman.ir).
